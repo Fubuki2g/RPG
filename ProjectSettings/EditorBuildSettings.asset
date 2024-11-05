@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Maps/RPGScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Maps/FieldScene.unity
+    guid: 1a60a8fdf87d6834398dbb792c4e0d74
+  - enabled: 1
+    path: Assets/Scenes/Maps/DungionScene.unity
+    guid: 6f1a35e5f4d44f84aa018ac46bea9f95
+  - enabled: 1
+    path: Assets/Scenes/Maps/TownScene.unity
+    guid: 4a69e695750d8ea48b01be58a3431e09
+  - enabled: 1
+    path: Assets/Scenes/Maps/CastleScene.unity
+    guid: ab157245a7f82c34d83efda3d66326d0
+  - enabled: 1
+    path: Assets/Scenes/TitleScene.unity
+    guid: 30a82fd17a626c446bc2579690e3f13d
+  - enabled: 1
+    path: Assets/Scenes/NameSelectScene.unity
+    guid: fd3e73cd488c83c4dbc969b995f3012f
+  - enabled: 1
+    path: Assets/Scenes/ClearScene.unity
+    guid: 6c98e5e52b3d428479f50b2c18d6a74e
+  - enabled: 1
+    path: Assets/Scenes/GameOverScene.unity
+    guid: 85726b67b95dfea4db0ea55603d4f75c
+  m_configObjects: {}
